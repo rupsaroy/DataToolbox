@@ -13,7 +13,7 @@
 * run git status 
 * run git add <file> in case of individual file change
 * or run git add . in case of changes in all files
-* run git status again to make sure the files are there
+* run git status again to make sure the files are up to date
 * run git commit -m to name the changes within quotes
 * run git status again to check if all the files are committed
 * run git log to check commit status
